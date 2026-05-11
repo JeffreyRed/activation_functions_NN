@@ -338,19 +338,3 @@ GELU(x) = x * Φ(x)
 # License
 
 MIT License
-
-````
-
----
-
-# requirements.txt
-
-```text
-numpy
-matplotlib
-tensorflow
-torch
-jupyter
-````
-
-# activation_functions_NN
